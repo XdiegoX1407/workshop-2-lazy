@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://github.com/XdiegoX1407/workshop-2-lazy',
   },
 }
